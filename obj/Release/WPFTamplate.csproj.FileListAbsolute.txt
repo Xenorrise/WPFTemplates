@@ -1,0 +1,16 @@
+D:\IT\Projects\MS_VisualStudio_Projects\WPFTamplate\WPFTamplate\bin\Release\WPFTamplate.exe.config
+D:\IT\Projects\MS_VisualStudio_Projects\WPFTamplate\WPFTamplate\bin\Release\WPFTamplate.exe
+D:\IT\Projects\MS_VisualStudio_Projects\WPFTamplate\WPFTamplate\bin\Release\WPFTamplate.pdb
+D:\IT\Projects\MS_VisualStudio_Projects\WPFTamplate\WPFTamplate\obj\Release\WPFTamplate.csproj.AssemblyReference.cache
+D:\IT\Projects\MS_VisualStudio_Projects\WPFTamplate\WPFTamplate\obj\Release\MainWindow.g.cs
+D:\IT\Projects\MS_VisualStudio_Projects\WPFTamplate\WPFTamplate\obj\Release\App.g.cs
+D:\IT\Projects\MS_VisualStudio_Projects\WPFTamplate\WPFTamplate\obj\Release\WPFTamplate_MarkupCompile.cache
+D:\IT\Projects\MS_VisualStudio_Projects\WPFTamplate\WPFTamplate\obj\Release\WPFTamplate_MarkupCompile.lref
+D:\IT\Projects\MS_VisualStudio_Projects\WPFTamplate\WPFTamplate\obj\Release\App.baml
+D:\IT\Projects\MS_VisualStudio_Projects\WPFTamplate\WPFTamplate\obj\Release\MainWindow.baml
+D:\IT\Projects\MS_VisualStudio_Projects\WPFTamplate\WPFTamplate\obj\Release\WPFTamplate.g.resources
+D:\IT\Projects\MS_VisualStudio_Projects\WPFTamplate\WPFTamplate\obj\Release\WPFTamplate.Properties.Resources.resources
+D:\IT\Projects\MS_VisualStudio_Projects\WPFTamplate\WPFTamplate\obj\Release\WPFTamplate.csproj.GenerateResource.cache
+D:\IT\Projects\MS_VisualStudio_Projects\WPFTamplate\WPFTamplate\obj\Release\WPFTamplate.csproj.CoreCompileInputs.cache
+D:\IT\Projects\MS_VisualStudio_Projects\WPFTamplate\WPFTamplate\obj\Release\WPFTamplate.exe
+D:\IT\Projects\MS_VisualStudio_Projects\WPFTamplate\WPFTamplate\obj\Release\WPFTamplate.pdb
